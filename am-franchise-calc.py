@@ -12,7 +12,7 @@
 #
 # formula: b = (x - e*t/y) * p
 # b = franchise payment per GHps
-# x = mining income 100%PPS per GHps over minint time t
+# x = mining income 100%PPS per GHps over mining time t
 # e = expenses factor: here 4.17*10^(-7) reflecting $0.15/kWh and 100W/blade
 # t = mining time in seconds
 # y = exchange rate BTC/USD
